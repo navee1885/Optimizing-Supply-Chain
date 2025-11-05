@@ -3,7 +3,7 @@ Project Overview
 
 This project analyzes global shipment pricing data to uncover cost drivers and optimize logistics strategies. Using real-world USAID SCMS delivery data (10,324 records), the goal is to improve forecasting accuracy, identify expensive shipment routes, and recommend cost-efficient transportation and supplier strategies. 
 
-Optimizing-Supply-Chain-Using-S…
+Optimizing-Supply-Chain
 
 Objectives
 
